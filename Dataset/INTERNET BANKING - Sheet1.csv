@@ -1,0 +1,101 @@
+Gender,Age,Profession,Area of living (District),Monthly Income ,Reliability ,Speed and availability on all devices,Attitude ,Ease of use,Time consuming,Lack of Knowledge,Internet Banking Usage
+Male,20 - 30,Student,Kurunegala,"Below 25,000",Highly Satisfied,Neutral,Satisfied,Satisfied,Yes,Yes,4
+Female,20 - 30,Student,Kurunegala,"Below 25,000",Satisfied,Highly Satisfied,Highly Satisfied,Satisfied,No,No,3
+Female,20 - 30,Student,Colombo,"Below 25,000",Neutral,Satisfied,Satisfied,Neutral,No,No,3
+Male,20 - 30,Student,Ampara,"Below 25,000",Satisfied,Neutral,Neutral,Satisfied,No,No,3
+Female,20 - 30,Student,Kandy,"Below 25,000",Satisfied,Satisfied,Satisfied,Highly Satisfied,Yes,No,3
+Male,20 - 30,Student,Colombo,"Below 25,000",Neutral,Satisfied,Highly Satisfied,Satisfied,Yes,Yes,2
+Male,20 - 30,Student,Colombo,"Below 25,000",Highly Satisfied,Satisfied,Satisfied,Satisfied,No,No,4
+Female,20 - 30,Student,Colombo,"Below 25,000",Dissatisfied,Dissatisfied,Highly dissatisfied,Dissatisfied,No,No,5
+Female,20 - 30,Student,Kalutara,"Below 25,000",Satisfied,Highly Satisfied,Satisfied,Highly Satisfied,Yes,No,5
+Female,20 - 30,Student,Colombo,"Below 25,000",Neutral,Highly Satisfied,Satisfied,Satisfied,Yes,No,4
+Male,20 - 30,Employee (Private/ Government Sector),Colombo,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,2
+Male,20 - 30,Employee (Private/ Government Sector),Kandy,"25,000 - 50,000",Satisfied,Highly Satisfied,Highly Satisfied,Satisfied,No,No,5
+Male,20 - 30,Student,Puttalam,"Below 25,000",Satisfied,Satisfied,Satisfied,Neutral,No,No,4
+Male,20 - 30,Student,Vavuniya,"Below 25,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,No,No,3
+Male,20 - 30,Student,Badulla,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,3
+Female,20 - 30,Student,Colombo,"Below 25,000",Neutral,Satisfied,Dissatisfied,Neutral,Yes,No,3
+Female,20 - 30,Student,Gampaha,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,2
+Female,20 - 30,Student,Colombo,"Below 25,000",Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,No,No,4
+Female,31 - 40,Employee (Private/ Government Sector),Colombo,"50,000 - 100,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,4
+Male,20 - 30,Student,Colombo,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,4
+Female,20 - 30,Student,Kalutara,"Below 25,000",Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,No,No,3
+Male,20 - 30,Student,Anuradhapura,"25,000 - 50,000",Satisfied,Neutral,Satisfied,Neutral,No,No,4
+Male,20 - 30,Employee (Private/ Government Sector),Colombo,"25,000 - 50,000",Neutral,Neutral,Neutral,Dissatisfied,No,No,2
+Female,20 - 30,Student,Gampaha,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,3
+Male,20 - 30,Student,Colombo,"Above 100,000",Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,No,No,5
+Female,20 - 30,Student,Kalutara,"Below 25,000",Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,3
+Female,20 - 30,Student,Hambantota,"Below 25,000",Satisfied,Neutral,Satisfied,Satisfied,Yes,No,4
+Female,20 - 30,Student,Nuwara Eliya,"Below 25,000",Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,Yes,No,5
+Female,20 - 30,Student,Colombo,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,2
+Male,20 - 30,Employee (Private/ Government Sector),Colombo,"50,000 - 100,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,3
+Female,31 - 40,Employee (Private/ Government Sector),Colombo,"Above 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,4
+Female,20 - 30,Student,Gampaha,"Below 25,000",Neutral,Satisfied,Satisfied,Satisfied,No,No,3
+Female,20 - 30,Student,Gampaha,"Below 25,000",Satisfied,Highly Satisfied,Satisfied,Satisfied,Yes,No,3
+Female,20 - 30,Student,Gampaha,"Below 25,000",Satisfied,Highly Satisfied,Neutral,Neutral,No,No,4
+Female,20 - 30,Student,Hambantota,"Below 25,000",Highly Satisfied,Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,3
+Female,20 - 30,Student,Colombo,"Below 25,000",Neutral,Neutral,Neutral,Neutral,Yes,No,4
+Female,20 - 30,Student,Gampaha,"Below 25,000",Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,No,No,5
+Female,20 - 30,Student,Colombo,"Below 25,000",Neutral,Satisfied,Satisfied,Satisfied,Yes,No,4
+Male,31 - 40,Employee (Private/ Government Sector),Jaffna,"50,000 - 100,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,Yes,5
+Female,20 - 30,Student,Gampaha,"Below 25,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,3
+Female,20 - 30,Student,Gampaha,"Below 25,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,4
+Female,Above 50,Employee (Private/ Government Sector),Anuradhapura,"50,000 - 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Neutral,Yes,No,5
+Female,20 - 30,Student,Kegalle,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,4
+Male,20 - 30,Student,Colombo,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,3
+Female,20 - 30,Student,Gampaha,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,4
+Female,20 - 30,Employee (Private/ Government Sector),Gampaha,"50,000 - 100,000",Satisfied,Highly Satisfied,Satisfied,Satisfied,Yes,No,3
+Male,31 - 40,Employee (Private/ Government Sector),Jaffna,"Above 100,000",Neutral,Neutral,Satisfied,Neutral,No,No,4
+Male,41 - 50,Employee (Private/ Government Sector),Jaffna,"50,000 - 100,000",Satisfied,Highly Satisfied,Satisfied,Highly Satisfied,Yes,No,4
+Male,20 - 30,Student,Galle,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,4
+Male,20 - 30,Student,Badulla,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,3
+Male,31 - 40,Employee (Private/ Government Sector),Galle,"50,000 - 100,000",Satisfied,Neutral,Satisfied,Neutral,Yes,No,4
+Male,31 - 40,Employee (Private/ Government Sector),Colombo,"50,000 - 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,5
+Male,20 - 30,Employee (Private/ Government Sector),Matale,"50,000 - 100,000",Satisfied,Satisfied,Highly Satisfied,Satisfied,No,No,4
+Male,20 - 30,Employee (Private/ Government Sector),Kandy,"50,000 - 100,000",Highly Satisfied,Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,4
+Male,31 - 40,Employee (Private/ Government Sector),Colombo,"50,000 - 100,000",Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,No,No,4
+Male,20 - 30,Employee (Private/ Government Sector),Jaffna,"50,000 - 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,5
+Female,20 - 30,Employee (Private/ Government Sector),Colombo,"50,000 - 100,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,5
+Male,31 - 40,Employee (Private/ Government Sector),Kalutara,"50,000 - 100,000",Satisfied,Satisfied,Highly Satisfied,Highly Satisfied,No,No,5
+Male,31 - 40,Employee (Private/ Government Sector),Colombo,"50,000 - 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Satisfied,No,No,5
+Female,20 - 30,Student,Nuwara Eliya,"Below 25,000",Highly dissatisfied,Neutral,Highly dissatisfied,Highly dissatisfied,No,No,4
+Male,20 - 30,Student,Kalutara,"Below 25,000",Satisfied,Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,4
+Male,20 - 30,Student,Kalutara,"Below 25,000",Satisfied,Highly Satisfied,Satisfied,Highly Satisfied,Yes,No,5
+Male,20 - 30,Employee (Private/ Government Sector),Matale,"50,000 - 100,000",Highly Satisfied,Satisfied,Highly Satisfied,Satisfied,No,No,4
+Male,20 - 30,Employee (Private/ Government Sector),Colombo,"Above 100,000",Highly Satisfied,Highly Satisfied,Satisfied,Satisfied,Yes,No,4
+Female,20 - 30,Student,Colombo,"Below 25,000",Neutral,Satisfied,Satisfied,Neutral,No,No,3
+Male,31 - 40,Employee (Private/ Government Sector),Gampaha,"50,000 - 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,4
+Male,31 - 40,Employee (Private/ Government Sector),Gampaha,"Above 100,000",Neutral,Neutral,Neutral,Neutral,No,No,5
+Male,31 - 40,Employee (Private/ Government Sector),Mullativu,"25,000 - 50,000",Highly Satisfied,Satisfied,Neutral,Satisfied,Yes,Yes,3
+Male,20 - 30,Student,Colombo,"Below 25,000",Satisfied,Highly Satisfied,Satisfied,Satisfied,Yes,No,4
+Female,20 - 30,Student,Monaragala,"Below 25,000",Highly Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,5
+Female,20 - 30,Student,Colombo,"Below 25,000",Dissatisfied,Highly Satisfied,Neutral,Neutral,Yes,Yes,3
+Female,20 - 30,Student,Gampaha,"Below 25,000",Neutral,Dissatisfied,Neutral,Dissatisfied,No,No,3
+Female,20 - 30,Student,Badulla,"Below 25,000",Highly dissatisfied,Dissatisfied,Neutral,Neutral,Yes,No,3
+Male,20 - 30,Student,Colombo,"Below 25,000",Satisfied,Satisfied,Highly Satisfied,Satisfied,Yes,No,3
+Female,20 - 30,Student,Gampaha,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,4
+Male,20 - 30,Employee (Private/ Government Sector),Colombo,"25,000 - 50,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,3
+Male,20 - 30,Student,Vavuniya,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,3
+Female,31 - 40,Employee (Private/ Government Sector),Gampaha,"50,000 - 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,No,No,5
+Male,31 - 40,Employee (Private/ Government Sector),Colombo,"Above 100,000",Dissatisfied,Dissatisfied,Neutral,Neutral,Yes,Yes,3
+Male,31 - 40,Employee (Private/ Government Sector),Anuradhapura,"50,000 - 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Satisfied,Yes,No,4
+Female,41 - 50,Employee (Private/ Government Sector),Anuradhapura,"Above 100,000",Neutral,Neutral,Neutral,Neutral,No,No,5
+Female,31 - 40,Employee (Private/ Government Sector),Anuradhapura,"50,000 - 100,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,5
+Male,31 - 40,Employee (Private/ Government Sector),Kurunegala,"50,000 - 100,000",Satisfied,Satisfied,Highly Satisfied,Highly Satisfied,No,No,5
+Female,Above 50,Employee (Private/ Government Sector),Anuradhapura,"50,000 - 100,000",Highly Satisfied,Satisfied,Highly Satisfied,Neutral,No,No,4
+Female,20 - 30,Student,Jaffna,"Below 25,000",Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,Neutral,Yes,No,4
+Female,31 - 40,Employee (Private/ Government Sector),Gampaha,"Above 100,000",Highly Satisfied,Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,5
+Male,20 - 30,Student,Kalutara,"Below 25,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,3
+Male,31 - 40,Employee (Private/ Government Sector),Puttalam,"50,000 - 100,000",Highly Satisfied,Satisfied,Satisfied,Satisfied,No,No,4
+Male,31 - 40,Entrepreneur/Businessman,Colombo,"Above 100,000",Satisfied,Neutral,Highly Satisfied,Neutral,No,No,5
+Female,31 - 40,Employee (Private/ Government Sector),Gampaha,"50,000 - 100,000",Highly Satisfied,Satisfied,Satisfied,Satisfied,No,No,5
+Male,41 - 50,Employee (Private/ Government Sector),Colombo,"Above 100,000",Satisfied,Satisfied,Satisfied,Satisfied,No,No,4
+Male,20 - 30,Student,Galle,"Below 25,000",Satisfied,Dissatisfied,Satisfied,Neutral,Yes,No,3
+Female,20 - 30,Student,Anuradhapura,"Below 25,000",Dissatisfied,Dissatisfied,Dissatisfied,Dissatisfied,No,No,2
+Female,20 - 30,Student,Kalutara,"Below 25,000",Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,Highly dissatisfied,No,No,4
+Male,31 - 40,Employee (Private/ Government Sector),Ratnapura,"50,000 - 100,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,No,5
+Male,41 - 50,Entrepreneur/Businessman,Colombo,"Above 100,000",Satisfied,Highly Satisfied,Satisfied,Satisfied,Yes,No,4
+Female,20 - 30,Student,Anuradhapura,"Below 25,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,Yes,5
+Female,31 - 40,Employee (Private/ Government Sector),Colombo,"Above 100,000",Highly Satisfied,Satisfied,Satisfied,Satisfied,No,No,5
+Female,20 - 30,Student,Anuradhapura,"Below 25,000",Highly Satisfied,Highly Satisfied,Highly Satisfied,Highly Satisfied,Yes,Yes,5
+Female,41 - 50,Employee (Private/ Government Sector),Ratnapura,"Above 100,000",Satisfied,Satisfied,Satisfied,Satisfied,Yes,No,5
