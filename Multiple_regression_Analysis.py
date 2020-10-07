@@ -101,4 +101,29 @@ reg_summary['Weights'] = reg.coef_
 reg_summary
 
 
+y_hat_test = reg.predict(X_test)
+
+df_pf = pd.DataFrame(np.exp(y_hat_test), columns=['Prediction'])
+df_pf.head()
+
+
+df_pf['Target'] = np.exp(y_test)
+df_pf
+
+
+y_test = y_test.reset_index(drop=True)
+
+y_test.head()
+
+
+df_pf['Target'] = np.exp(y_test)
+df_pf
+
+df_pf['Residual'] = df_pf['Target'] - df_pf['Prediction']
+
+df_pf['Difference%'] = np.absolute(df_pf['Residual']/df_pf['Target']*100)
+df_pf
+
+
+
 
