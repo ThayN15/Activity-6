@@ -23,6 +23,11 @@ data.columns
 
 data.describe(include='all')
 
+x= data.corr().values
+x
+
+sns.heatmap(data.corr())
+plt.show()
 
 data = pd.get_dummies(data, columns =['Gender', 'Age', 'Profession', 'Area of living (District)',
        'Monthly Income ', 'Reliability ',
