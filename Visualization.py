@@ -23,6 +23,7 @@ sns.countplot(x='Internet Banking Usage',hue='Age',data=data)
 
 
 sns.countplot(y="Profession", data=data)
-plt.show()
+
+sns.countplot(x='Lack of Knowledge',data=data)
 
 plt.show()
