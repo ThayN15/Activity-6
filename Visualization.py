@@ -17,4 +17,12 @@ sns.countplot(x='Internet Banking Usage',hue='Gender',data=data)
 
 
 sns.countplot(y="Area of living (District)", data=data)
+
+
+sns.countplot(x='Internet Banking Usage',hue='Age',data=data)
+
+
+sns.countplot(y="Profession", data=data)
+plt.show()
+
 plt.show()
